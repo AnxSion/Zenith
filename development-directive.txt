@@ -1,0 +1,14 @@
+# Zenith Development Directives
+
+## Code base
+_data
+_documentation
+_lib
+_modules
+  \_ exploit
+  \_ auxiliary
+  \_ post
+  \_ encoders
+  \_ evasion
+  \_ nops
+  
